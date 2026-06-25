@@ -1,4 +1,4 @@
-This folder contains R script and data files to reproduce the functional data analysis on EEG signals on the paper:
+This folder contains R scripts and data files to reproduce the functional data analysis on EEG signals from the paper:
 
 "Stronger Central Mu Suppression for Neutral Than Disgusted Faces During Emotion Categorisation"
 by 
