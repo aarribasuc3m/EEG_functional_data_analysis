@@ -7,7 +7,7 @@ by
 
 Contents:
 
-- CSV_files: folder including all csv files containing the CWTs for each task/condition/participant/electrode/band for both baseline and post-stimulus periods.
+- CSV_files.zip: compressed folder including all csv files containing the CWTs for each task/condition/participant/electrode/band for both baseline and post-stimulus periods.
 
 - Descriptive_Graphics_4electrodes.R: reproduces Figures 4 and 6 in the paper
 
